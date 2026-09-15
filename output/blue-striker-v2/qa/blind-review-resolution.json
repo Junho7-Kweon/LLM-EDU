@@ -1,0 +1,7 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "independent final_visual_qa worker and parent",
+  "failed_checks": ["intermediate blind-axis disagreements", "157.5-to-180 local diff outlier", "alpha-hole metric warnings"],
+  "evidence": "Both cardinal hard gates pass. The labeled normal-size 16-pose sheet stays in the intended quadrants without reversal. The 157.5-to-180 transition changes pose family but preserves down-right to down semantics. Transparent spans occur in intentional negative space between legs, tail, and football, not inside filled anatomy. Deterministic v2 validation passes with no errors."
+}

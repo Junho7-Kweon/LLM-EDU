@@ -1,0 +1,1 @@
+{"ok":true,"reviewed_by":"independent standard_qa worker","repairs":["running-left independently regenerated to remove mirrored slot fragments","jumping extracted with stable-slots to preserve size and vertical travel"],"warnings":["stable-slots jumping warning reviewed and accepted"],"note":"All nine standard rows pass visual identity, semantics, cadence and clipping checks."}
